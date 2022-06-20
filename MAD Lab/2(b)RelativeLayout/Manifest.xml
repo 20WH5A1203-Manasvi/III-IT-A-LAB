@@ -1,0 +1,8 @@
+&lt;resources&gt;
+&lt;string name=&quot;app_name&quot;&gt;Rlayout&lt;/string&gt;
+&lt;string-array name=&quot;initials_items&quot;&gt;
+&lt;item&gt;Telangana&lt;/item&gt;
+&lt;item&gt;Andhra&lt;/item&gt;
+&lt;item&gt;Chennai&lt;/item&gt;
+&lt;/string-array&gt;
+&lt;/resources&gt;
